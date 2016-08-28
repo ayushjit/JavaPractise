@@ -1,4 +1,4 @@
-In demo 1 is a basic starter example for muti threading.
+Demo 1 is a basic starter example for muti threading.
 We are creating threads in three different ways
 1. Extending the thread class.
 2. Implementing the runnable interface.
