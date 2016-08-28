@@ -1,0 +1,5 @@
+In Demo2 we see the importance for the volatile key word.
+Look for comments in the VolatileExample.java class.
+
+Following link provide a good explanation of the volatile keyword.
+http://tutorials.jenkov.com/java-concurrency/volatile.html
